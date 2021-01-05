@@ -7,7 +7,7 @@ The 17 Sustainable Development Goals (SDGs) established by the United Nations Ag
 4. Distilling ongoing challenges and target areas for important advances.
 5. A compilation of ***869*** publications related to the application of AI and other digital technologies to boost the attainment of the SDGs.
 
-The results from 1 to 4 are exponded in the paper entitled:
+The results from 1 to 4 are expounded in the paper entitled:
 
 >A Panoramic View and SWOT Analysis of Artificial Intelligence for achieving the Sustainable Development Goals by 2030: Progress and Prospects
 
@@ -18,7 +18,7 @@ The result number 5 is provided in the form of spreadsheet as complemtarial mate
 ## Literature compiltation
 This repository has an [EXCEL spreadsheet](AI-SDG-2020-literature.xlsx) with all the references used in our study categorized per each SDG, and it corresponds to the previous result number 5.
 
-We identify two kind of publications:
+We identify two type of publications:
 
 * Scientific publications (SP).
 * Dissemination publications (DP).
