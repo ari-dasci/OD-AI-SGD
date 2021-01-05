@@ -1,4 +1,4 @@
-s# AI-SDG-2020-literature
+# AI-SDG-2020-literature
 The 17 Sustainable Development Goals (SDGs) established by the United Nations Agenda 2030 constitute a global blueprint agenda and instrument for peace and prosperity worldwide. Artificial intelligence (AI) and other digital technologies are becoming omnipresent in our lifes, hence their influence may be decissive in the pursuance of the SDGs. Accordingly, we carried out a comprehensive review of existing literature in which AI and other digital technologies are used to address the SDGs. This review results in:
 
 1. A snapshot and a comprehensive view of the progress made and prospects in the relationship between AI and the SDG.
