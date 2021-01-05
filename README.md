@@ -23,7 +23,7 @@ We identify two kind of publications:
 * Scientific publications (SP).
 * Dissemination publications (DP).
 
-The number of publications reviewed per each SGD are shown in the subsequent table.
+The number of publications reviewed per each SDG are shown in the subsequent table.
 | SDG Number | SP | DP | Total |
 | ----------- |  ----------- | ----------- | ----------- |
 | SDG-1 | 20 | 7 | 27 |
