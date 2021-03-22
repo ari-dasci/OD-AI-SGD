@@ -45,4 +45,5 @@ The number of publications reviewed per each SDG are shown in the subsequent tab
 | SDG-17 | 5 | 9 | 14 |
 
 ## Citation
-TBA
+> Palomares, I., Martínez-Cámara, E., Montes, R., García-Moral, P., Chiachío, M., Chiachío, J., Alonso, S., Melero, F.J., Molina, D., Fernández, B., Moral, C., Marchena, R., Pérez de Vargas, J., Herrera, F. A Panoramic View and SWOT Analysis of Artificial Intelligence for achieving the Sustainable Development Goals by 2030: Progress and Prospects. Applied Intelligence, 2021. 30th Anniversary Special Issue. ISSN: 0924-669X (Print) 1573-7497 (Online)
+>
